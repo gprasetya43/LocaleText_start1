@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 23 17:36:48 ICT 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\LENOVO\\AndroidStudioProjects\\android-advanced-starter-apps-master\\LocaleText_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
